@@ -1,3 +1,5 @@
+[![Waffle.io - Issues in progress](https://badge.waffle.io/odoo-latinoamerica/developer-book.png?label=in%20progress&title=In%20Progress)](http://waffle.io/odoo-latinoamerica/developer-book)
+
 # developer-book
 Este repositorio contendrá informaciones referentes al desarrollo en odoo, esperamos que pueda servir como una guía de apoyo.
 
